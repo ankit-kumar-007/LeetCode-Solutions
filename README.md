@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ankit-kumar-007/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/ankit-kumar-007/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ankit-kumar-007/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ankit-kumar-007/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ankit-kumar-007/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ankit-kumar-007/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
