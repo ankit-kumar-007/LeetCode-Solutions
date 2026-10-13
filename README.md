@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ankit-kumar-007/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ankit-kumar-007/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ankit-kumar-007/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ankit-kumar-007/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ankit-kumar-007/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/ankit-kumar-007/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ankit-kumar-007/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ankit-kumar-007/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Quicksort
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ankit-kumar-007/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ankit-kumar-007/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ankit-kumar-007/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ankit-kumar-007/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
