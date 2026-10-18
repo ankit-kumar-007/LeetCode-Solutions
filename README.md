@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ankit-kumar-007/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ankit-kumar-007/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Dynamic Programming
 |  |
